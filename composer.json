@@ -11,7 +11,7 @@
         }
     ],
     "replace": {
-        "roave/security-advisories": "self.version"
+        "roave/security-advisories": "dev-master"
     },
     "conflict": {
     }
