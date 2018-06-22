@@ -10,7 +10,7 @@
             "email": "ocramius@gmail.com"
         }
     ],
-    "replaces": "roave/security-advisories",
+    "replace": "roave/security-advisories",
     "conflict": {
     }
 }
