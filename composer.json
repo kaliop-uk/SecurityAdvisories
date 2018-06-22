@@ -1,5 +1,5 @@
 {
-    "name": "kaliop/security-advisories-noconflicts",
+    "name": "roave/security-advisories",
     "type": "metapackage",
     "description": "Replaces roave/security-advisories, to ease usage in CI scenarios, where testing against a known insecure dependency is required. *NB* this removes *all* security checks of the original!!!",
     "license": "MIT",
@@ -10,9 +10,6 @@
             "email": "ocramius@gmail.com"
         }
     ],
-    "replace": {
-        "roave/security-advisories": "dev-master"
-    },
     "conflict": {
     }
 }
